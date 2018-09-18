@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class DemoController {
 	@RequestMapping("/index.do")
 	public String demo() {
-		System.out.println("进入Controller控制器");
+		System.out.println("进入Controller控制器uoighskdfskjfgkdghdk");
 		return "index";
 	}
 }
